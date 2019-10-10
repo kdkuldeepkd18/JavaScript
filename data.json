@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "Kuldeep",
     "age": 23,
@@ -9,4 +10,17 @@
 "age": 23,
 "company": "TexasInstrumentaion",
 "salary": 3000000,
+=======
+{
+    "name": "Kuldeep",
+    "age": 23,
+    "company": "TexasInstrumentaion",
+    "salary": 3000000,
+}
+{
+"name": "Kuldeep",
+"age": 23,
+"company": "TexasInstrumentaion",
+"salary": 3000000,
+>>>>>>> 6cfb27571578f1d6d8277c44b49dc033e09586bf
 }
